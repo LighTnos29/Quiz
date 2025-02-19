@@ -19,7 +19,7 @@ A simple, interactive quiz application built with **React + Vite**. It features 
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/LighTnos29/Quiz.git
-cd quiz-app
+cd quiz
 ```
 
 ### 2️⃣ Install Dependencies
@@ -64,14 +64,3 @@ This generates an optimized `dist/` folder.
 - **React + Vite** 🚀
 - **Tailwind CSS** 🎨
 - **IndexedDB** 📊
-
----
-
-## 🤝 Contributing
-Feel free to submit issues or PRs to improve the app!
-
----
-
-## 📜 License
-This project is **MIT Licensed**.
-
