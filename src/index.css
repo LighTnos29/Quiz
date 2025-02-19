@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@font-face {
+    font-family: neue;
+    src: url(/fonts/NeueHaasDisplay-Roman.ttf);
+}
