@@ -18,7 +18,7 @@ A simple, interactive quiz application built with **React + Vite**. It features 
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/LighTnos29/Quiz.git
 cd quiz-app
 ```
 
